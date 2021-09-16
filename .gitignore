@@ -30,3 +30,5 @@ linux-4.19.83/
 # Scripts not used with gem5art
 launch-microbm.py
 launch-spec2006.py
+*.swp
+*.swo
